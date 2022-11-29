@@ -94,6 +94,15 @@ nav ul{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+div ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
 }

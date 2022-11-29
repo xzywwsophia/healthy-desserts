@@ -58,6 +58,15 @@ h3 {
 
 }
 
+div ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
 div ul li {
     background-color: #ffddd6;
     list-style: none;
@@ -94,6 +103,6 @@ nav ul{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+    align-items: center;
 }

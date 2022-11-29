@@ -90,10 +90,19 @@ nav ul li{
     margin: 3px;
 }
 
+div ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
 nav ul{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-justify-content: center;
-align-items: center;
+    justify-content: center;
+    align-items: center;
 }
