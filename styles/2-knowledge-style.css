@@ -49,11 +49,14 @@ body {
   h1{
     font-family: 'Handlee', cursive;
     color: var(--green-2);
-    font-weight:100;
+    font-weight:2000;
     font-size: 60px;
     padding-top: 30px;
     padding-bottom: 20px;
     text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+    letter-spacing: 0.06em;
   }
 
   h2{
