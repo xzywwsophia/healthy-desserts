@@ -56,6 +56,9 @@ body {
     font-weight:1200;
     font-size: 100px;
     padding-top: 1.5em;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: white;
+    letter-spacing: 0.06em;
   }
 
   header h3{
