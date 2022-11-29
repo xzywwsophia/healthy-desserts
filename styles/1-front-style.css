@@ -52,25 +52,25 @@ body {
 
   header h1{
     font-family: 'Handlee', cursive;
-    color: var(--green-2);
-    font-weight:1200;
+    color: #664229;
+    font-weight: 1200;
     font-size: 100px;
     padding-top: 1.5em;
-    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-width: 2.5px;
     -webkit-text-stroke-color: white;
     letter-spacing: 0.06em;
   }
 
   header h3{
     font-family: 'Patrick Hand SC', cursive;
-    color: var(--green-2);
+    color: #987554;
     font-size: 35px;
     line-height: 40px;
   }
 
   header p {
     font-family: 'Palanquin', sans-serif;
-    color: var(--green-3);
+    color: #987554;
     font-weight: bold;
     font-size: 20px;
   }

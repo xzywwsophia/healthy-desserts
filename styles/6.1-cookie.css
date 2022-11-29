@@ -33,14 +33,14 @@ body{
 
 h1{
     font-family: "Palanquin";
-    color: #f1b6ac;
+    color: #664229;
     font-size: 70px;
     font-weight: bold;
     text-align: center;
 }
 
 div{
-    background-color: #bcd1ac;
+    background-color: #E5D3B3;
     height:300px;
     width: 500px;
     margin-left: auto;
@@ -50,7 +50,7 @@ div{
 
 h3 {
     font-family: 'Palanquin', sans-serif;
-    color: white;
+    color: #664229;
     font-weight: bold;
     font-size: 20px;
     text-align: center;
@@ -68,9 +68,8 @@ div ul{
 }
 
 div ul li {
-    background-color: #ffddd6;
+    background-color: #fde9ea;
     list-style: none;
-    color: black;
     font-size: 20px;
     font-family: 'Patrick Hand SC', cursive;
     font-weight: bold;
@@ -82,7 +81,7 @@ div ul li {
 }
 
 nav a, div a{
-    color: black;
+    color: #846648;
     text-decoration: none;
 }
 

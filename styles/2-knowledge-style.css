@@ -48,7 +48,7 @@ body {
 
   h1{
     font-family: 'Handlee', cursive;
-    color: var(--green-2);
+    color: #846648;
     font-weight:2000;
     font-size: 60px;
     padding-top: 30px;
@@ -61,7 +61,7 @@ body {
 
   h2{
     font-family: 'Palanquin', sans-serif;
-    color: var(--green-1);
+    color: #987554;
     font-weight:bold;
     font-size: 25px;
     text-align: center;
@@ -69,7 +69,7 @@ body {
 
   h3{
     font-family: 'Palanquin', sans-serif;
-    color: var(--green-1);
+    color: #987554;
     font-weight:bold;
     font-size: 20px;
     text-align: center;
